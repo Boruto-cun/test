@@ -1,0 +1,38 @@
+body {
+    background:
+    url("https://memepedia.ru/wp-content/uploads/2018/08/papich.jpg");
+    font-family: arial;
+    list-style: inherit;
+    line-height: 1.5;
+}
+
+.nic {
+  margin: 30px auto;
+  width: 400px;
+  background-color: BlueViolet;
+  box-shadow: 0 5px 10px silver;
+  border-radius: 10px;
+  padding: 20px;
+
+}
+.nic-photo {
+  width: 200px;
+  display: block;
+  border-radius: 34350%;
+  margin: 0 auto;
+}
+.nic-title {
+  font-size: 20;
+  text-align: center;
+  color: Olive;
+}
+.citata {
+  color: Maroon;
+}
+.nic-text {
+
+}
+
+.urok {
+  color: green;
+}

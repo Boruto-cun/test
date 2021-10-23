@@ -1,0 +1,23 @@
+.pudge {
+  color: Indigo	;
+  margin: 30 auto;
+  text-align: center;
+}
+body {
+  background-color: LightCyan;
+  font-family: arial;
+  line-height: 1.5;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+
+.table-purple {
+      color: purple;
+      text-align: center;
+}
+.table-orange {
+      color: orange;
+}
